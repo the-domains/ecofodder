@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[EcoFodder]]></title>
         <description><![CDATA[EcoFodder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ecofodder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 07:05:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 15:53:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ecofodder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Infographic: 60 Beef Cuts and How To Cook Them]]></title>
+            <description><![CDATA[<article><h1>Infographic: 60 Beef Cuts and How To Cook Them</h1><p>Even if you are an avid meat eater navigating the world of beef can be intimidating. With so many beef cuts on the market - and each one requiring a specific cooking method - things can get a little confusing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e54077b037ac91bcc0e475a6903061f240fc38e.png"></article>]]></description>
+            <link>https://www.finedininglovers.com/blog/food-drinks/infographic-beef-cuts/</link>
+            <guid isPermaLink="false">100f514c-d17a-4f2f-b717-c049b2b965cf</guid>
+            <pubDate>Tue, 19 Jan 2016 15:53:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Brazilian farmer Ernst Gotsch bought 1&comma;200 acres of completely deforested land on the edge of the rainforest in 1984&period; Check out our video of the week to&period;&period;&period;" src="https://scontent.xx.fbcdn.net/hvthumb-xfa1/v/t15.0-10/s110x80/11403186_10153232255744934_686261759_n.jpg?oh=2797b687ffb8b2759091ead58cf7e295&oe=56FF9A92">]]></description>
