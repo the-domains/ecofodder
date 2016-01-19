@@ -1,0 +1,28 @@
+name: EcoFodder
+favicon: null
+layout_spectrum: 0.6132415176834911
+typography_spectrum: 0.9119732733815908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6361720291897655
+  lightness: 0.9783425354398787
+  saturation: 0.24750737333670259
+  rhythmicContrast: 0.7956776926293969
+purpose: []
